@@ -1,2 +1,5 @@
 print('us')
 print("working")
+print ('movement')
+print('sample')
+print('okay')
